@@ -31,8 +31,8 @@ const Login = ({userData}:ForFindUserData) => {
             setIsCorrect('');
         }
 
-        setTimeout(() => {setIsCorrect('')}, 3000);
-        setTimeout(() => {setIsNotCorrect('')}, 3000);
+        // setTimeout(() => {setIsCorrect('')}, 3000);
+        // setTimeout(() => {setIsNotCorrect('')}, 3000);
     }
 
 

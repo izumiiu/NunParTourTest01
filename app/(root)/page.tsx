@@ -11,7 +11,7 @@ export default function Home() {
       <AuthSection/>
       <hr />
       <div>
-        <h2>didnt have an account?  ----  <Link href="/register">Register here</Link></h2> 
+        <h2>didnt have an account?  ----  <Link href="/register"><button>Register</button></Link></h2> 
       </div>
     </div>
   );
